@@ -7,7 +7,7 @@ if(name==="Joe")
 else
 {console.log("The name is wrong")}
 if(height==="74")
-{Console.log("the height is correct")}
+{console.log("the height is correct")}
 else
 {console.log("The height is wrong")}
 
